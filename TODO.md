@@ -4,7 +4,7 @@ This is the checklist os tasks to make a good readme:
 
 ## Making a good readme
 
-- [ ] Project title 
+- [X] Project title 
   - [ ] Description
   - [ ] Getting Started
     - [ ] Prerequisites
