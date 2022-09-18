@@ -11,6 +11,6 @@ This is the checklist os tasks to make a good readme:
     - [x] Installing
   - [X] Deployment
   - [X] Built With
-  - [ ] Authors
-  - [ ] License
+  - [x] Authors
+  - [x] License
 

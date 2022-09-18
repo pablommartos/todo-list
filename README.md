@@ -27,7 +27,7 @@ Requirements for the software and other tools to build, test and push
  ` until finished`
 
  End with an example of getting some data out of the system of using it for a little demo
-  
+
 # Deployment
 
 Add additional notes to deploy this on a live system
@@ -36,4 +36,20 @@ Add additional notes to deploy this on a live system
 
   * [Contributor Covenant]() - Used for the Code of Conduct
 
-  * [Creative Commons]() - Used to choose the license
+  * [Creative Commons]() - Used to choose the license 
+
+  # Authors
+
+  * Pablo - Provided READMETemplate-
+  [pablommartos](https://github.com/pablommartos)
+
+  * Jose c - Provided READMETemplate-
+  [JCMF1989](https://github.com/JCMF1989)
+   
+   See also the list of  
+   [contributors]()
+
+# LICENSE 
+
+This project is licensed under the [CCo 1.o Universal]()
+Creative Commons License - see the [LICENSE.md]() file for details
