@@ -7,8 +7,8 @@ This is the checklist os tasks to make a good readme:
 - [X] Project title 
   - [X] Description
   - [X] Getting Started
-    - [ ] Prerequisites
-    - [ ] Installing
+    - [x] Prerequisites
+    - [x] Installing
   - [ ] Deployment
   - [ ] Built With
   - [ ] Authors
